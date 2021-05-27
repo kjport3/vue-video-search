@@ -17,9 +17,6 @@ export default {
 </script>
 
 <style scoped>
-input {
-  width: 75%;
-}
 div {
   text-align: center;
   margin: 20px;
@@ -28,7 +25,7 @@ div {
   color: #aaa;
 }
 .input-field {
-  width: 100%;
+  width: 75%;
   padding: 4px 10px 5px 35px;
   text-align: left;
 }
