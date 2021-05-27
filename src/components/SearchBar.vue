@@ -1,6 +1,6 @@
 <template>
   <div>
-    <input @input="onInput" />
+    <input value="Vue" @change="onInput" />
   </div>
 </template>
 
